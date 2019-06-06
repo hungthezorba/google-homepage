@@ -1,0 +1,1 @@
+The first project that I worked on in theodinproject.com.  This is an opportunity for me to self-check what I have learned for a past week about web development.  In this project, I will focus on using 2 basic tools for front-end develop which are HTML and CSS.  
