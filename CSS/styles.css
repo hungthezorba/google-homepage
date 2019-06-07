@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: arial;
+  font-weight: normal;
+}
+
+button {
+  background-color: #f2f2f2;
+  cursor: pointer;
+  color: #898989;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #f2f2f2;
+  border: 0.5px ridge #dbdbdb;
+  padding: 20px;
+  color: #898989
+}
+
+hr {
+  background-color: #dbdbdb;
+  height: 1px;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  color: #777777;
+  font-size: 13px;
+  margin-right: 10px;
+}
+
+.nav-bar {
+  text-align: right;
+  margin-right: 40px;
+  margin-top: 15px;
+}
+
+.nav-bar h3 {
+  display: inline-block;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: arial;
+  font-weight: normal;
+  font-size: 14px;
+  margin-left: 10px
+}
+
+.main {
+  position: relative;
+  text-align: center;
+  top: 80px;
+}
+
+.logo{
+  text-align: center;
+  padding: 0;
+}
+
+.logo img{
+  width: 330px;
+  height: 320px;
+}
+
+.search-bar {
+  position: relative;
+  bottom: 100px;
+  width: 550px;
+  height: 40px;
+  border-radius: 24px;
+  overflow: hidden;
+  background-image: url("../Images/keyboard-logo.png");
+  background-repeat: no-repeat;
+  background-position: 495px 15px;
+  box-shadow: 0;
+  margin:0;
+  border: 1px solid #dfe1e5;
+}
+
+
+
+.keyboard {
+  position: relative;
+  margin: 0;
+  bottom: 5px;
+}
+
+.container {
+  position: relative;
+  bottom: 75px;
+
+}
+
+.container .box {
+  display: inline-block;
+  margin-right: 30px;
+  background-color: #f2f2f2;
+  padding: 5px;
+}
+
+
+.footer-1 {
+  position: relative;
+  bottom: 5px;
+}
+
+.footer-2 {
+  position: relative;
+  top: 4px;
+}
